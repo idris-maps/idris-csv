@@ -1,21 +1,21 @@
-#idris-csv
+# idris-csv
 
 GeoJSON - CSV converter
 
-##Install
+## Install
 
 ```
 npm install idris-csv
 ```
 
-##Usage
+## Usage
 
 
 ```
 var ic = require('idris-csv')
 ```
 
-###API
+### API
 
 **From CSV with latitude and longitude columns**
 
